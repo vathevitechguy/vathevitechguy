@@ -1,6 +1,7 @@
 # Hi there 👋
-<hr>
-<h3>Welcome! I'm <a href="https://link.tr/vathevitechgy">Victor Aromose</a></h3>
+<h3>Welcome! I'm <a href="https://link.tr/vathevitechguy">Victor Aromose</a></h3>
+- 😄 Pronouns: He/Him
+- 
 
 <!--
 **VikkyDev05/vikkydev05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <img align="left" alt="vikkydev05's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vikkydev05&show_icons=true&hide_border=true&theme=dracula" />
