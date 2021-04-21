@@ -1,7 +1,4 @@
-# Hi there 👋
-<h3>Welcome! I'm <a href="https://link.tr/vathevitechguy">Victor Aromose</a></h3>
-- 😄 Pronouns: He/Him
-- 
+
 
 <!--
 **VikkyDev05/vikkydev05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋
+<h3>Welcome! I'm <a href="https://link.tr/vathevitechguy">Victor Aromose</a></h3>
+- 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br />
