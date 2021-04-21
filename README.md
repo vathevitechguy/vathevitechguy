@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
-<h3>Welcome! I'm <a href="https://linktr.ee/Vathevitechguy">Victor Aromose</a></h3>
+<h3>Welcome! I'm <a href="https://linktr.ee/Vathevitechguy" target="_blank">Victor Aromose</a></h3>
 - 
 
 <details>
