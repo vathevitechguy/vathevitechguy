@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br />
  <img align="left" alt="vikkydev05's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vikkydev05&show_icons=true&hide_border=true&theme=dracula" />
+</details>
