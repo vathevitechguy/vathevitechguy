@@ -22,4 +22,5 @@ Here are some ideas to get you started:
   <summary>:zap: GitHub Stats</summary>
   <br />
  <img align="left" alt="vikkydev05's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vikkydev05&show_icons=true&hide_border=true&theme=dracula" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </details>
