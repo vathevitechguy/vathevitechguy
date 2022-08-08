@@ -38,33 +38,33 @@ Connect with me. Let's **make ideas a Reality!**
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")](https://github.com/VikkyDev05?tab=repositories)
 [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "Styled-Components")](https://github.com/VikkyDev05?tab=repositories)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")](https://github.com/VikkyDev05?tab=repositories)
-[![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")](https://github.com/DanielDallas?tab=repositories)
+[![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")](https://github.com/VikkyDev05?tab=repositories)
 
 <hr />
 
 ### **DevOps Tools**
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")](https://github.com/DanielDallas?tab=repositories)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")](https://github.com/DanielDallas?tab=repositories)
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")](https://github.com/DanielDallas?tab=repositories)
-[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white "Apache")](https://github.com/DanielDallas?tab=repositories)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")](https://github.com/VikkyDev05?tab=repositories)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")](https://github.com/VikkyDev05?tab=repositories)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")](https://github.com/VikkyDev05?tab=repositories)
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white "Apache")](https://github.com/VikkyDev05?tab=repositories)
 
 ### **Clouds**
 
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")](https://github.com/DanielDallas?tab=repositories)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")](https://github.com/DanielDallas?tab=repositories)
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")](https://github.com/DanielDallas?tab=repositories)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")](https://github.com/DanielDallas?tab=repositories)
-[![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")](https://github.com/DanielDallas?tab=repositories)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")](https://github.com/VikkyDev05?tab=repositories)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")](https://github.com/VikkyDev05?tab=repositories)
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")](https://github.com/VikkyDev05?tab=repositories)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")](https://github.com/VikkyDev05?tab=repositories)
+[![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")](https://github.com/VikkyDev05?tab=repositories)
 
 ### **Code Editor & IDEs**
 
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")](https://github.com/DanielDallas?tab=repositories)
-[![Replit](https://img.shields.io/badge/replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=important "Replit")](https://github.com/DanielDallas?tab=repositories)
-[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")](https://github.com/DanielDallas?tab=repositories)
-[![ATOM](https://img.shields.io/badge/atom-27a86c?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
-[![GitHub Codespace](https://img.shields.io/badge/github_codespace-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub Codespace")](https://github.com/DanielDallas?tab=repositories)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/DanielDallas?tab=repositories)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")](https://github.com/VikkyDev05?tab=repositories)
+[![Replit](https://img.shields.io/badge/replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=important "Replit")](https://github.com/VikkyDev05?tab=repositories)
+[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")](https://github.com/VikkyDev05?tab=repositories)
+[![ATOM](https://img.shields.io/badge/atom-27a86c?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/VikkyDev05?tab=repositories)
+[![GitHub Codespace](https://img.shields.io/badge/github_codespace-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub Codespace")](https://github.com/VikkyDev05?tab=repositories)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/VikkyDev05?tab=repositories)
 
 
 ### **Design Tools**
