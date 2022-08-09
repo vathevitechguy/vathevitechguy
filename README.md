@@ -2,7 +2,7 @@
 
 I am a **Software Developer** with a self-motivated approach to learning and using skills in promoting and innovating. I am **open** to new opportunities and **collaboration** to leverage expertise gained over years of experience in building and deploying softwares for commercial and community development purposes.
 
-Connect with me. Let's **make ideas a Reality!**
+Connect with me. **Let's make ideas a Reality!**
 
 <p align="left"> <a href="https://twitter.com/vathevitechguy" target="blank"><img src="https://img.shields.io/twitter/follow/vathevitechguy?logo=twitter&style=for-the-badge" alt="Vathevitechguy" /></a></p>
 
