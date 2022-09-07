@@ -30,6 +30,7 @@ Connect with me. **Let's make ideas a Reality!**
 [![Tailwind CSS](https://img.shields.io/badge/tailwind-2596be?style=for-the-badge&logo=tailwind-css&logoColor=white 'Tailwind')](https://github.com/vathevitechguy?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black 'JavaScript')](https://github.com/vathevitechguy?tab=repositories)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB 'React')](https://github.com/vathevitechguy?tab=repositories)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")](https://github.com/vathevitechguy?tab=repositories)
 [![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white 'JQuery')](https://github.com/vathevitechguy?tab=repositories)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white 'Bootstrap')](https://github.com/vathevitechguy?tab=repositories)
 [![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white 'Material UI')](https://github.com/vathevitechguy?tab=repositories)
