@@ -19,7 +19,7 @@ Connect with me. **Let's make ideas a Reality!**
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathevitechguy&hide=TeX&layout=compact&theme=synthwave) -->
 
 ---
-
+<!--
 ## 🔥 (techStack) => {
 
 ### **Website Development**
@@ -69,7 +69,7 @@ Connect with me. **Let's make ideas a Reality!**
 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white 'Figma')](https://github.com/vathevitechguy?tab=repositories)
 
-## };
+## }; -->
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
