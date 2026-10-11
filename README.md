@@ -1,78 +1,101 @@
-## 👋 Hi there!, I'm <a href="https://linktr.ee/Vathevitechguy" target="_blank">Victor Aromose</a>
+<h1 align="center">👋 Hi, I'm Victor Aromose</h1>
 
-I am a **Software Developer** with a self-motivated approach to learning and using skills in promoting and innovating. I am **open** to new opportunities and **collaboration** to leverage expertise gained over years of experience in building and deploying softwares for commercial and community development purposes.
+<p align="center">
+  <b>Software Developer</b> · Builder · Problem Solver
+</p>
 
-Connect with me. **Let's make ideas a Reality!**
+<p align="center">
+  <a href="https://build.withvictor.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-build.withvictor.dev-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://twitter.com/vathevitechguy" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/vathevitechguy?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/vathevitechguy" target="blank"><img src="https://img.shields.io/twitter/follow/vathevitechguy?logo=twitter&style=for-the-badge" alt="Vathevitechguy" /></a></p>
-
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/vathevitechguy)
-[![](https://komarev.com/ghpvc/?username=vathevitechguy&color=blue)](https://github.com/vathevitechguy)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vathevitechguy&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
+  <a href="https://github.com/vathevitechguy">
+    <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square" alt="Contributions welcome" />
+  </a>
+</p>
 
 ---
 
-## 🚀 GitHub Stats
+## 🧑‍💻 About Me
 
-[![Victor Aromose's Github Stats](https://activity-graph.herokuapp.com/graph?username=vathevitechguy&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Commits%20Graph)](https://github.com/vathevitechguy)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vathevitechguy&count_private=true&show_icons=true&theme=dark)
+I'm a **self-motivated software developer** who loves learning new skills and using them to innovate. For years I've been building and deploying software for both **commercial** and **community development** projects.
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathevitechguy&hide=TeX&layout=compact&theme=synthwave) -->
+- 🌐 Check out my personal site and projects: **[build.withvictor.dev](https://build.withvictor.dev)**
+- 🤝 **Open** to new opportunities and **collaboration**
+- 💡 Always up for turning a good idea into something real
+
+**Let's make ideas a reality!** 🚀
 
 ---
-<!--
-## 🔥 (techStack) => {
 
-### **Website Development**
+## 🔥 Tech Stack
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white 'HTML')](https://github.com/vathevitechguy?tab=repositories)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white 'CSS')](https://github.com/vathevitechguy?tab=repositories)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white 'SASS')](https://github.com/vathevitechguy?tab=repositories)
-[![Tailwind CSS](https://img.shields.io/badge/tailwind-2596be?style=for-the-badge&logo=tailwind-css&logoColor=white 'Tailwind')](https://github.com/vathevitechguy?tab=repositories)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black 'JavaScript')](https://github.com/vathevitechguy?tab=repositories)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB 'React')](https://github.com/vathevitechguy?tab=repositories)
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")](https://github.com/vathevitechguy?tab=repositories)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")]([https://github.com/DanielDallas?tab=repositories](https://github.com/vathevitechguy?tab=repositories))
-[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white 'JQuery')](https://github.com/vathevitechguy?tab=repositories)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white 'Bootstrap')](https://github.com/vathevitechguy?tab=repositories)
-[![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white 'Material UI')](https://github.com/vathevitechguy?tab=repositories)
-[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white 'Styled-Components')](https://github.com/vathevitechguy?tab=repositories)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white 'PHP')](https://github.com/vathevitechguy?tab=repositories)
-[![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white 'Nodejs')](https://github.com/vathevitechguy?tab=repositories)
+### Web Development
 
-<hr />
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/vathevitechguy?tab=repositories)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/vathevitechguy?tab=repositories)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
 
-### **DevOps Tools**
+### Backend
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white 'GitHub')](https://github.com/vathevitechguy?tab=repositories)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white 'Git')](https://github.com/vathevitechguy?tab=repositories)
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white 'Npm')](https://github.com/vathevitechguy?tab=repositories)
-[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white 'Apache')](https://github.com/vathevitechguy?tab=repositories)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
 
-### **Clouds**
+### DevOps & Cloud
 
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white 'Google Cloud')](https://github.com/vathevitechguy?tab=repositories)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 'Netlify')](https://github.com/vathevitechguy?tab=repositories)
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white 'Heroku')](https://github.com/vathevitechguy?tab=repositories)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white 'Vercel')](https://github.com/vathevitechguy?tab=repositories)
-[![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white 'AWS')](https://github.com/vathevitechguy?tab=repositories)
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
 
-### **Code Editor & IDEs**
+### Tools
 
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white 'Visual Studio Code')](https://github.com/vathevitechguy?tab=repositories)
-[![Replit](https://img.shields.io/badge/replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=important 'Replit')](https://github.com/vathevitechguy?tab=repositories)
-[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important 'Sublime Text')](https://github.com/vathevitechguy?tab=repositories)
-[![ATOM](https://img.shields.io/badge/atom-27a86c?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
-[![GitHub Codespace](https://img.shields.io/badge/github_codespace-%23121011.svg?style=for-the-badge&logo=github&logoColor=white 'GitHub Codespace')](https://github.com/vathevitechguy?tab=repositories)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/vathevitechguy?tab=repositories)
 
-### **Design Tools**
+---
 
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white 'Figma')](https://github.com/vathevitechguy?tab=repositories)
+## 📊 GitHub Stats
 
-## }; -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vathevitechguy&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathevitechguy&layout=compact&theme=dark&hide_border=true&bg_color=1c1917&hide=TeX" alt="Top languages" />
+</p>
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-  <br />
- <img align="left" alt="vathevitechguy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vathevitechguy&show_icons=true&hide_border=true&theme=dracula" />
-</details> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vathevitechguy&theme=dark&hide_border=true&background=1c1917" alt="GitHub streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://build.withvictor.dev">🌐 Website</a> ·
+  <a href="https://twitter.com/vathevitechguy">🐦 Twitter</a> ·
+  <a href="https://github.com/vathevitechguy">💻 GitHub</a>
+</p>
+
+<p align="center"><i>Have an idea or project in mind? Let's build it together.</i></p>
