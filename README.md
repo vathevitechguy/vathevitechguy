@@ -78,14 +78,13 @@ I'm a **self-motivated software developer** who loves learning new skills and us
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vathevitechguy&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathevitechguy&layout=compact&theme=dark&hide_border=true&bg_color=1c1917&hide=TeX" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=vathevitechguy&theme=dark&hide_border=true&background=1c1917" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vathevitechguy&theme=dark&hide_border=true&background=1c1917" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vathevitechguy&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=1c1917" alt="GitHub stats" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathevitechguy&layout=compact&theme=dark&hide_border=true&bg_color=1c1917&hide=TeX" alt="Top languages" /> -->
 </p>
 
 ---
